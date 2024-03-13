@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
+  <id>https://tgsub.zhangkaix.ink/exports/kxpm/</id>
+  <title>空想泡面的个人订阅</title>
+  <updated>2024-03-13T12:30:44.612402+00:00</updated>
+  <link href="https://tgsub.zhangkaix.ink/exports/kxpm/" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tgsub.zhangkaix.ink/logo.png</logo>
+  <subtitle>「每个人都在说，却没有人在听」</subtitle>
+  <entry>
+    <id>14</id>
+    <title>空想泡面的个人订阅 #14</title>
+    <updated>2024-03-08T00:05:01+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Epic Games Store - Free Games&lt;/b&gt;
+&lt;a href="https://store.epicgames.com/en-US/p/astro-duel-2-e1261d"&gt;Astro Duel 2&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=14" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>13</id>
+    <title>空想泡面的个人订阅 #13</title>
+    <updated>2024-03-06T23:00:01+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Minecraft Java版游戏更新&lt;/b&gt;
+&lt;a href="https://www.minecraft.net/"&gt;24w10a 快照更新&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=13" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>12</id>
+    <title>空想泡面的个人订阅 #12</title>
+    <updated>2024-03-01T00:05:01+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Epic Games Store - Free Games&lt;/b&gt;
+&lt;a href="https://store.epicgames.com/en-US/p/aerial-knights-never-yield"&gt;Aerial_Knight's Never Yield&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=12" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>11</id>
+    <title>空想泡面的个人订阅 #11</title>
+    <updated>2024-02-28T23:25:04+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Minecraft Java版游戏更新&lt;/b&gt;
+&lt;a href="https://www.minecraft.net/"&gt;24w09a 快照更新&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=11" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>10</id>
+    <title>空想泡面的个人订阅 #10</title>
+    <updated>2024-02-23T00:05:03+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Epic Games Store - Free Games&lt;/b&gt;
+&lt;a href="https://store.epicgames.com/en-US/p/super-meat-boy-forever"&gt;Super Meat Boy Forever&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=10" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>9</id>
+    <title>空想泡面的个人订阅 #9</title>
+    <updated>2024-02-16T00:05:01+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Epic Games Store - Free Games&lt;/b&gt;
+&lt;a href="https://store.epicgames.com/en-US/p/dakar-desert-rally"&gt;Dakar Desert Rally&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=9" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>8</id>
+    <title>空想泡面的个人订阅 #8</title>
+    <updated>2024-02-15T00:15:01+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Minecraft Java版游戏更新&lt;/b&gt;
+&lt;a href="https://www.minecraft.net/"&gt;24w07a 快照更新&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>1</id>
+    <title>空想泡面的个人订阅 #1</title>
+    <updated>2024-02-13T23:14:46+00:00</updated>
+    <content>&lt;p&gt;Channel chat created&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=1" rel="alternate"/>
+  </entry>
+</feed>

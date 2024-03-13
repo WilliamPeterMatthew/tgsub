@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "date": "2024-02-13T23:14:46",
+    "type": "service",
+    "text": "Channel chat created"
+  },
+  {
+    "id": 8,
+    "date": "2024-02-15T00:15:01",
+    "text": "<b>Minecraft Java版游戏更新</b>\n<a href=\"https://www.minecraft.net/\">24w07a 快照更新</a>",
+    "views": 7,
+    "forwards": 0
+  },
+  {
+    "id": 9,
+    "date": "2024-02-16T00:05:01",
+    "text": "<b>Epic Games Store - Free Games</b>\n<a href=\"https://store.epicgames.com/en-US/p/dakar-desert-rally\">Dakar Desert Rally</a>",
+    "views": 7,
+    "forwards": 0
+  },
+  {
+    "id": 10,
+    "date": "2024-02-23T00:05:03",
+    "text": "<b>Epic Games Store - Free Games</b>\n<a href=\"https://store.epicgames.com/en-US/p/super-meat-boy-forever\">Super Meat Boy Forever</a>",
+    "views": 4,
+    "forwards": 0
+  },
+  {
+    "id": 11,
+    "date": "2024-02-28T23:25:04",
+    "text": "<b>Minecraft Java版游戏更新</b>\n<a href=\"https://www.minecraft.net/\">24w09a 快照更新</a>",
+    "views": 4,
+    "forwards": 0
+  },
+  {
+    "id": 12,
+    "date": "2024-03-01T00:05:01",
+    "text": "<b>Epic Games Store - Free Games</b>\n<a href=\"https://store.epicgames.com/en-US/p/aerial-knights-never-yield\">Aerial_Knight's Never Yield</a>",
+    "views": 4,
+    "forwards": 0
+  },
+  {
+    "id": 13,
+    "date": "2024-03-06T23:00:01",
+    "text": "<b>Minecraft Java版游戏更新</b>\n<a href=\"https://www.minecraft.net/\">24w10a 快照更新</a>",
+    "views": 3,
+    "forwards": 0
+  },
+  {
+    "id": 14,
+    "date": "2024-03-08T00:05:01",
+    "text": "<b>Epic Games Store - Free Games</b>\n<a href=\"https://store.epicgames.com/en-US/p/astro-duel-2-e1261d\">Astro Duel 2</a>",
+    "views": 3,
+    "forwards": 0
+  }
+]
