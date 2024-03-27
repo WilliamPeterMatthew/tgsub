@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://tgsub.zhangkaix.ink/exports/kxpm/</id>
   <title>空想泡面的个人订阅</title>
-  <updated>2024-03-27T14:13:51.730284+00:00</updated>
+  <updated>2024-03-27T16:19:02.142253+00:00</updated>
   <link href="https://tgsub.zhangkaix.ink/exports/kxpm/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tgsub.zhangkaix.ink/logo.png</logo>
   <subtitle>「每个人都在说，却没有人在听」</subtitle>
+  <entry>
+    <id>23</id>
+    <title>空想泡面的个人订阅 #23</title>
+    <updated>2024-03-28T00:15:05+00:00</updated>
+    <content>&lt;p&gt;&lt;b&gt;Minecraft Java版游戏更新&lt;/b&gt;
+&lt;a href="https://www.minecraft.net/"&gt;24w13a 快照更新&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tgsub.zhangkaix.ink/exports/kxpm/?post=23" rel="alternate"/>
+  </entry>
   <entry>
     <id>22</id>
     <title>空想泡面的个人订阅 #22</title>
